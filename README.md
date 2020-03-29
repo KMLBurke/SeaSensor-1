@@ -9,5 +9,6 @@ My plan is to have my application display data such as local tide times, water t
 
 # Update - 30/3/20
 
-My progress so far mainly consisted of my Slack Application design and research into how I would implement data from ThingSpeak. Attached (see image1) is my current layout of my Sea Sensor Application designed with Slack, I found the applications available to use on Slack very limited. I have decided to excude the feature of location as planned in my origional proposal as the marine monitor device shall be placed in the same position and therefore that data wouldn't be necessary.
+My progress so far mainly consisted of my Slack Application design and research into how I would implement data from ThingSpeak. Attached is my current layout of my Sea Sensor Application designed with Slack, I found the applications available to use on Slack very limited. I have decided to excude the feature of location as planned in my origional proposal as the marine monitor device shall be placed in the same position and therefore that data wouldn't be necessary.
 
+![SeaSensor](https://user-images.githubusercontent.com/47150299/77857715-2633a100-71f7-11ea-9963-9d70c627acc2.jpeg)

@@ -7,3 +7,7 @@ I plan to design and implement a front end application that uses and visualises 
 
 My plan is to have my application display data such as local tide times, water temperature, current strength/direction, water depth, as well as a local weather report. This data will be optained from out marine monitor device placed on a bouy in Tramore Bay. 
 
+# Update - 30/3/20
+
+My progress so far mainly consisted of my Slack Application design and research into how I would implement data from ThingSpeak. Attached (see image1) is my current layout of my Sea Sensor Application designed with Slack, I found the applications available to use on Slack very limited. I have decided to excude the feature of location as planned in my origional proposal as the marine monitor device shall be placed in the same position and therefore that data wouldn't be necessary.
+

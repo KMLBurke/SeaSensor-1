@@ -16,4 +16,4 @@ My progress so far mainly consisted of my Slack Application design and research 
 
 # Update - 13/5/20
 
-Unfortunity the Covid19 pandemic made some goals for this project a bit harder, and in turn I altered the aim for my application. As a group we were unable to join our projects and get data from our own sea buoy, so I chose to get my information from the M% Buoy off the coast of Waterford. This gave me information on the sea temperature, sea air temperature and updated date/time.
+Unfortunity the Covid19 pandemic made some goals for this project a bit harder, and in turn I altered the aim for my application. As a group we were unable to join our projects and get data from our own sea buoy, so I chose to get my information from the M5 Buoy off the coast of Waterford. This gave me information on the sea temperature, sea air temperature and updated date/time.

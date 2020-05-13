@@ -12,3 +12,8 @@ My plan is to have my application display data such as local tide times, water t
 My progress so far mainly consisted of my Slack Application design and research into how I would implement data from ThingSpeak. Attached is my current layout of my Sea Sensor Application designed with Slack, I found the applications available to use on Slack very limited. I have decided to excude the feature of location as planned in my origional proposal as the marine monitor device shall be placed in the same position and therefore that data wouldn't be necessary. I plan to have a live local weather report in the "report" box, show the locations tide times where the "clock" is, and display a chart comparing our data with a nearby bouy. 
 
 ![SeaSensor](https://user-images.githubusercontent.com/47150299/77857715-2633a100-71f7-11ea-9963-9d70c627acc2.jpeg)
+
+
+# Update - 13/5/20
+
+Unfortunity the Covid19 pandemic made some goals for this project a bit harder, and in turn I altered the aim for my application. As a group we were unable to join our projects and get data from our own sea buoy, so I chose to get my information from the M% Buoy off the coast of Waterford. This gave me information on the sea temperature, sea air temperature and updated date/time.

@@ -16,4 +16,11 @@ My progress so far mainly consisted of my Slack Application design and research 
 
 # Update - 13/5/20
 
-Unfortunity the Covid19 pandemic made some goals for this project a bit harder, and in turn I altered the aim for my application. As a group we were unable to join our projects and get data from our own sea buoy, so I chose to get my information from the M5 Buoy off the coast of Waterford. This gave me information on the sea temperature, sea air temperature and updated date/time.
+Unfortunity due to the Covid19 pandemic, some plans for this project became a bit harder, and in turn I had to alter the aim for my Sea Sensor app. As a group we were unable to join our projects and get data from our own sea buoy, so I chose to get my information from the M5 Buoy off the coast of Waterford. This gave me information on the sea temperature, sea air temperature and updated date/time. Below is an updated image for what the design for my Blynk application looks like.
+
+![appUpdate](https://user-images.githubusercontent.com/47150299/82067643-e81c0f00-96c8-11ea-80f6-0ea9558b90df.jpeg)
+
+# Update - 15/5/20
+
+I was unable to get the weather forecast widget running as originally planned and if I had more time I would look further into weather API's provided by websites such as Met Éireann. 
+

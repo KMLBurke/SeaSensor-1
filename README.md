@@ -1,5 +1,8 @@
-# TBay Marine Monitor
-A marine environment monitoring and logging system using Low Power Wide Area Network (LPWAN) and open source web standards and protocols
+# TBay Marine Monitor - Project Overview
+The aim of this project is to create a marine environment monitoring and logging system using Low Power Wide Area Network (LPWAN) and open source web standards and protocols.
+
+For code, see javaScriptCode folder.
+Attached is a link to my SeaSensor Website https://erinnwhittyxx.github.io/SeaSensor/
 
 # Initial Proposal - Application/Front end
 

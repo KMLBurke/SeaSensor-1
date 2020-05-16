@@ -4,6 +4,7 @@ The aim of this project is to create a marine environment monitoring and logging
 For code, see javaScriptCode folder.
 
 Attached is a link to my SeaSensor Website https://erinnwhittyxx.github.io/SeaSensor/
+Also check out my short video of my process for this project! https://www.youtube.com/watch?v=tl2NreBtzxc
 
 # Initial Proposal - Application/Front end
 
